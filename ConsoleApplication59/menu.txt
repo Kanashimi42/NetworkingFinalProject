@@ -1,0 +1,4 @@
+{"dishName": "Fish Fillet", "dishType": "MainCourse", "dishPrice": 15.99},
+{"dishName": "Beef", "dishType": "MainCourse", "dishPrice": 17.99},
+{"dishName": "IceCream", "dishType": "Dessert", "dishPrice": 8.99},
+{"dishName": "Tiramisu", "dishType": "Dessert", "dishPrice": 7.99}

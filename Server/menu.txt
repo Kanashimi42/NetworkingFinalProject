@@ -1,0 +1,4 @@
+{"dishName": "Grilled fish fillet with vegetables", "dishType": "MainCourse", "dishPrice": 15.99},
+{"dishName": "Beef medallions with sweet potato mash", "dishType": "MainCourse", "dishPrice": 17.99},
+{"dishName": "Chocolate fondant with ice cream", "dishType": "Dessert", "dishPrice": 8.99},
+{"dishName": "Fruit tart with caramel sauce", "dishType": "Dessert", "dishPrice": 7.99}
